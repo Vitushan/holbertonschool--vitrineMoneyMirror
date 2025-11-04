@@ -24,13 +24,24 @@ Sur cette page d'accueil vous trouverez :
 - Une grande image de couverture (`./assets/cover.png`).
 [Voir l'application déployée](https://holbertonschool-money-mirror.vercel.app)
 
+
 ## Fonctionnalites
 
 > Ici la landing met en valeur 3 fonctionnalités clés. Remplacez les images par de vrais captures/gifs.
 
-### 1) Tableau de bord clair
+### 1) Connexion sécurisée
 
-![Feature 1](./assets/feature1.png)
+![Connexion](./assets/connexion.png)
+
+Nom : Authentification
+
+Description : Connectez-vous en toute sécurité à votre compte MoneyMirror. Vos données financières sont protégées et accessibles uniquement par vous.
+
+---
+
+### 2) Tableau de bord clair
+
+![Dashboard](./assets/dashBoard3.png)
 
 Nom : Tableau de bord central
 
@@ -38,7 +49,7 @@ Description : Un tableau de bord synthétique qui affiche vos soldes, tendances 
 
 ---
 
-### 2) Visualisations graphiques
+### 3) Visualisations graphiques
 
 ![Graphique en ligne](./assets/ligne.png)
 
@@ -64,7 +75,17 @@ Description : Visualisez la répartition de vos dépenses par catégorie avec un
 
 ---
 
-### 3) Piggy Banks (Tirelires)
+### 4) Ajout de transactions
+
+![Ajout Transaction](./assets/Add3.png)
+
+Nom : Ajouter une transaction
+
+Description : Ajoutez facilement vos revenus et dépenses en quelques clics. Interface intuitive pour enregistrer toutes vos transactions financières rapidement.
+
+---
+
+### 5) Piggy Banks (Tirelires)
 
 ![Feature 2](./assets/feature2.png)
 
@@ -74,7 +95,7 @@ Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (va
 
 ---
 
-### 4) Liste des transactions
+### 6) Liste des transactions
 
 ![Liste des Transactions](./assets/liste_transactions.png)
 
@@ -84,7 +105,7 @@ Description : Consultez toutes vos transactions (revenus et dépenses) dans un t
 
 ---
 
-### 5) Message de récompense
+### 7) Message de récompense
 
 ![Message de Récompense](./assets/message_revenu.png)
 
@@ -94,7 +115,7 @@ Description : Lorsque vous ajoutez un revenu, MoneyMirror vous félicite et vous
 
 ---
 
-### 6) Message de prudence
+### 8) Message de prudence
 
 ![Message de Prudence](./assets/messagePrudence.png)
 
@@ -129,7 +150,6 @@ URL slide : [Présentation](https://docs.google.com/presentation/d/1OtzlbXKp1otE
 URL rapport : [Rapport](https://docs.google.com/document/d/1RN6_e0gwZ6dyxVRkByGGZrMq66lm_RBAbU6d5kU-0iI/edit?tab=t.0)
 
 ---
-
 ## Deploiement
 
 Bouton :
@@ -137,21 +157,3 @@ Bouton :
 [Voir l'application déployée](https://holbertonschool-money-mirror.vercel.app)
 
 ---
-
-## Tester localement
-
-Si vous avez le code source complet (frontend Node/React/etc.), voici des commandes courantes pour lancer l'application en local :
-
-1. Installer les dépendances (si le projet utilise Node) :
-
-```bash
-npm install
-```
-
-1. Lancer le serveur de développement :
-
-```bash
-npm run dev
-# ou
-npm start
-```
