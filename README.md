@@ -84,7 +84,17 @@ Description : Consultez toutes vos transactions (revenus et dépenses) dans un t
 
 ---
 
-### 5) Message de prudence
+### 5) Message de récompense
+
+![Message de Récompense](./assets/message_revenu.png)
+
+Nom : Félicitations pour vos revenus
+
+Description : Lorsque vous ajoutez un revenu, MoneyMirror vous félicite et vous encourage ! Un message positif pour célébrer chaque entrée d'argent et vous motiver à continuer sur cette lancée.
+
+---
+
+### 6) Message de prudence
 
 ![Message de Prudence](./assets/messagePrudence.png)
 
