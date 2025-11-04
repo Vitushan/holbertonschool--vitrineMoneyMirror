@@ -38,7 +38,33 @@ Description : Un tableau de bord synthétique qui affiche vos soldes, tendances 
 
 ---
 
-### 2) Piggy Banks (Tirelires)
+### 2) Visualisations graphiques
+
+![Graphique en ligne](./assets/ligne.png)
+
+Nom : Évolution dans le temps
+
+Description : Suivez l'évolution de vos finances avec un graphique en ligne interactif. Visualisez les tendances de votre solde sur plusieurs mois pour mieux anticiper.
+
+---
+
+![Graphique en barres](./assets/courbe_graphique.png)
+
+Nom : Revenus vs Dépenses
+
+Description : Comparez vos revenus et dépenses période par période avec un graphique en barres clair. Identifiez rapidement les périodes où vous dépensez plus que vous ne gagnez.
+
+---
+
+![Diagramme en camembert](./assets/cammembert.png)
+
+Nom : Répartition par catégorie
+
+Description : Visualisez la répartition de vos dépenses par catégorie avec un diagramme en camembert coloré. Découvrez où va réellement votre argent.
+
+---
+
+### 3) Piggy Banks (Tirelires)
 
 ![Feature 2](./assets/feature2.png)
 
@@ -48,7 +74,7 @@ Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (va
 
 ---
 
-### 3) Liste des transactions
+### 4) Liste des transactions
 
 ![Liste des Transactions](./assets/liste_transactions.png)
 
@@ -58,7 +84,7 @@ Description : Consultez toutes vos transactions (revenus et dépenses) dans un t
 
 ---
 
-### 4) Message de prudence
+### 5) Message de prudence
 
 ![Message de Prudence](./assets/messagePrudence.png)
 
