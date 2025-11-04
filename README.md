@@ -48,23 +48,31 @@ Description : Graphiques dynamiques (courbes, camemberts, heatmaps) qui permette
 
 ---
 
-### 3) Simulateur d'objectifs
+### 3) Gestion des transactions
 
-![Feature 3](./assets/feature3.png)
+![Transactions Dépenses](./assets/transac_depense.png)
 
-Nom : Simulateur d'objectifs
+Nom : Transactions - Dépenses
 
-Description : Fonctionnalité qui vous aide à définir un objectif d'épargne et simuler différents scénarios (économies mensuelles, taux d'intérêt, délais).
+Description : Ajoutez et suivez vos dépenses avec une interface intuitive. Catégorisez vos sorties d'argent, ajoutez des descriptions et suivez l'évolution de vos dépenses.
 
 ---
 
-### 4) Piggy Banks (Tirelires)
+![Transactions Revenus](./assets/transac_revenu.png)
 
-![Piggy Banks](./assets/piggybank.png)
+Nom : Transactions - Revenus
 
-Nom : Piggy Banks
+Description : Enregistrez vos revenus de différentes sources. Visualisez vos entrées d'argent et comprenez vos flux de trésorerie positifs.
 
-Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (vacances, imprévus, cadeaux). Affectez des montants récurrents ou ponctuels, définissez des priorités et suivez la progression. Les piggy banks peuvent être automatisés (règles d'arrondi, transferts programmés) et combinés au simulateur d'objectifs.
+---
+
+### 4) Message de prudence
+
+![Message de Prudence](./assets/messagePrudence.png)
+
+Nom : Alertes intelligentes
+
+Description : MoneyMirror vous avertit quand vos dépenses dépassent vos revenus ou quand des comportements financiers risqués sont détectés. Restez informé pour mieux contrôler votre budget.
 
 ---
 
