@@ -79,11 +79,11 @@ a {
 }
 
 .money-text {
-    color: #1a1a1a;
+    color: var(--primary-color);
 }
 
 .mirror-text {
-    color: var(--primary-color);
+    color: #1a1a1a;
 }
 
 .nav-links {
