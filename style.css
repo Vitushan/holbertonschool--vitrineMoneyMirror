@@ -164,10 +164,7 @@ a {
     font-weight: 800;
     color: var(--darker);
     margin-bottom: 1rem;
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    /* Use plain color and rely on .money-text / .mirror-text spans for brand coloring */
 }
 
 .hero-subtitle {
